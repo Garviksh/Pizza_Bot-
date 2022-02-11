@@ -1,0 +1,15 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "hello , Am Mark2. Here to support you created by Garviksh",
+      "Good to see you, How can i help you"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Hy"
+    ]
+  }
+]
